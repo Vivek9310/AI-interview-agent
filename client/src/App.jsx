@@ -11,7 +11,7 @@ import Pricing from './pages/Pricing'
 import InterviewReport from './pages/InterviewReport'
 import InterviewHistory from './pages/InterviewHistory'
 
-export const ServerUrl="http://localhost:8000"
+export const ServerUrl="https://ai-interview-agent-3gbm.onrender.com"
 
 
 function App() {
