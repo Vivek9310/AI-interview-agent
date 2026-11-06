@@ -15,7 +15,7 @@ app.use(express.json())
 app.use(cookieParser())
 
 app.use(cors({
-    origin:"http://localhost:5173",
+    origin:"https://ai-interview-agent-1-client-p95o.onrender.com",
     credentials:true
 }))
 
